@@ -1,0 +1,36 @@
+********************************************************************************
+*                                 ABOUT.TXT                                  *
+********************************************************************************
+
+The open source high peak/average power transmit/receive switch was developed for 
+thermal MR applications. It supports high peak power MR imaging applications and 
+high average power RF heating. The specifications of v1.0 are:
+- Isolation (Tx-port - Rx-port) during transmission: 			-56dB 
+- Isolation (Tx-port - Rx-port) during reception:				-57dB 
+- Insertion loss during transmission (Tx-port - coil/antenna): 	-0.35dB
+- Insertion loss during reception (coil/antenna - Rx port): 	-0.21dB
+
+The switch has been developed at the Berlin Ultrahigh Field Facility (B.U.F.F.) of 
+the Max-Delbrück Center for Molecular Medicine in the Helmholtz Association, Berlin, 
+Germany. The documentation for the hardware is made freely available to the community. 
+
+This work is part of the Open Source Imaging Initiative (www.opensourceimaging.org)
+and was supported in part by the Federal Ministry for Education and Research (BMBF, 
+KMU innovativ Medizintechnik, 3-in-1 THERAHEAT, FKZ 13GW0102A and 13GW0102B) and an
+advanced grant of the European Research Council (ERC AdG 743077). 
+
+--------------------------
+Contact person for the project: 
+
+Lukas Winter (lukas.winter@mdc-berlin.de)
+
+--------------------------
+
+If you find the Thermal MR switch useful in your work, please cite this paper:
+
+Ji Y, Hoffmann W, Pham M, et al. High peak and high average radiofrequency power 
+transmit/receive switch for thermal magnetic resonance. Magn Reson Med. 2018;00:1–10. 
+https://doi.org/10.1002/mrm.27194 
+
+
+********************************************************************************
